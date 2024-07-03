@@ -10,3 +10,12 @@ This project involves the analysis of large sales datasets to predict future sal
 
 ### Real-World Use:
 Retailers and e-commerce businesses can utilize this solution to optimize inventory management, plan marketing campaigns, and improve revenue forecasts. The project empowers businesses to make efficient use of their resources.
+
+
+## Handwritten Digit Prediction - Classification Analysis
+
+### Description:
+This project is centered around recognizing handwritten digits using classification techniques. It's an example of image classification and pattern recognition, often used in optical character recognition (OCR) systems.
+
+### Real-World Use:
+Applications include digit recognition in postal services, financial institutions, and document processing companies. It simplifies digit reading and data entry.
